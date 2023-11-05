@@ -44,10 +44,7 @@ PEOPLE_ANIMALS = [
   (3, 5),  # karen, martin
 ]
 
-###
 # Utility functions for interacting with the database.
-# No need to look any further!
-###
 
 DB_NAME = "quiz_pets"
 
